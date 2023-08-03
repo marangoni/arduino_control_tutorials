@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/luiz/ROSprojects/RosTests/catkin_ws/src/arduino_control_tutorials/build/devel/setup.sh
